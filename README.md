@@ -13,15 +13,15 @@ ________________________________________
 ### 3. Data Sources
 •	Primary Source: Blinkit historical sales dataset (Excel/CSV/Database).
 •	Key Data Columns:
-o	Item Type
-o	Fat Content
-o	Outlet Type
-o	Outlet Size
-o	Outlet Location Type (Tier 1, Tier 2, Tier 3)
-o	Outlet Establishment Year
-o	Item Sales
-o	Item Rating
-o	Item Visibility
+&emsp;1. Item Type
+&emsp;2.	Fat Content
+&emsp;3.	Outlet Type
+&emsp;4.	Outlet Size
+&emsp;5.	Outlet Location Type (Tier 1, Tier 2, Tier 3)
+&emsp;6.	Outlet Establishment Year
+&emsp;7.	Item Sales
+&emsp;8.	Item Rating
+&emsp;9.	Item Visibility
 ________________________________________
 ### 4. Key Metrics & KPIs
 •	Total Sales: Sum of all sales transactions.
@@ -32,21 +32,21 @@ ________________________________________
 ________________________________________
 ### 5. Dashboard Components
 &emsp;•	Summary Cards:<br>
-&emsp;&emsp;o	Total Sales<br>
-&emsp;&emsp;o	Average Sales<br>
-&emsp;&emsp;o	Number of Items<br>
-&emsp;&emsp;o	Average Rating<br>
+&emsp;&emsp;-	Total Sales<br>
+&emsp;&emsp;-	Average Sales<br>
+&emsp;&emsp;-	Number of Items<br>
+&emsp;&emsp;-	Average Rating<br>
 &emsp;•	Visualizations:<br>
-&emsp;&emsp;o	Sales by Fat Content: Donut chart dividing Low Fat vs. Regular.<br>
-&emsp;&emsp;o	Sales by Item Type: Horizontal bar chart of total sales by category.<br>
-&emsp;&emsp;o	Sales by Outlet Size: Donut chart showing Medium, Small, High sales contribution.<br>
-&emsp;&emsp;o	Sales by Outlet Location: Bar chart showing Tier-wise performance.<br>
-&emsp;&emsp;o	Sales Trend by Establishment Year: Line chart showing sales growth over years.<br>
-&emsp;&emsp;o	Outlet Type Table: Table showing Total Sales, Number of Items, Average Sales, Ratings, and Item Visibility.<br>
+&emsp;&emsp;-	Sales by Fat Content: Donut chart dividing Low Fat vs. Regular.<br>
+&emsp;&emsp;-	Sales by Item Type: Horizontal bar chart of total sales by category.<br>
+&emsp;&emsp;-	Sales by Outlet Size: Donut chart showing Medium, Small, High sales contribution.<br>
+&emsp;&emsp;-	Sales by Outlet Location: Bar chart showing Tier-wise performance.<br>
+&emsp;&emsp;-	Sales Trend by Establishment Year: Line chart showing sales growth over years.<br>
+&emsp;&emsp;-	Outlet Type Table: Table showing Total Sales, Number of Items, Average Sales, Ratings, and Item Visibility.<br>
 &emsp;•	Filter Panel:<br>
-&emsp;&emsp;o	Outlet Location Type<br>
-&emsp;&emsp;o	Outlet Size<br>
-&emsp;&emsp;o	Item Type<br>
+&emsp;&emsp;-	Outlet Location Type<br>
+&emsp;&emsp;-	Outlet Size<br>
+&emsp;&emsp;-	Item Type<br>
 ________________________________________
 ### 6. Tools & Technologies<br>
 &emsp;•	Power BI Desktop<br>
