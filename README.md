@@ -31,22 +31,22 @@ ________________________________________
 •	Item Visibility: Proportion of item display space.
 ________________________________________
 ### 5. Dashboard Components
-•	Summary Cards:
-o	Total Sales
-o	Average Sales
-o	Number of Items
-o	Average Rating
-&emsp;•	Visualizations:
-&emsp;&emsp;o	Sales by Fat Content: Donut chart dividing Low Fat vs. Regular.
-o	Sales by Item Type: Horizontal bar chart of total sales by category.
-o	Sales by Outlet Size: Donut chart showing Medium, Small, High sales contribution.
-o	Sales by Outlet Location: Bar chart showing Tier-wise performance.
-o	Sales Trend by Establishment Year: Line chart showing sales growth over years.
-o	Outlet Type Table: Table showing Total Sales, Number of Items, Average Sales, Ratings, and Item Visibility.
-•	Filter Panel:
-o	Outlet Location Type
-o	Outlet Size
-o	Item Type
+&emsp;•	Summary Cards:<br>
+&emsp;&emsp;o	Total Sales<br>
+&emsp;&emsp;o	Average Sales<br>
+&emsp;&emsp;o	Number of Items<br>
+&emsp;&emsp;o	Average Rating<br>
+&emsp;•	Visualizations:<br>
+&emsp;&emsp;o	Sales by Fat Content: Donut chart dividing Low Fat vs. Regular.<br>
+&emsp;&emsp;o	Sales by Item Type: Horizontal bar chart of total sales by category.<br>
+&emsp;&emsp;o	Sales by Outlet Size: Donut chart showing Medium, Small, High sales contribution.<br>
+&emsp;&emsp;o	Sales by Outlet Location: Bar chart showing Tier-wise performance.<br>
+&emsp;&emsp;o	Sales Trend by Establishment Year: Line chart showing sales growth over years.<br>
+&emsp;&emsp;o	Outlet Type Table: Table showing Total Sales, Number of Items, Average Sales, Ratings, and Item Visibility.<br>
+&emsp;•	Filter Panel:
+&emsp;&emsp;o	Outlet Location Type
+&emsp;&emsp;o	Outlet Size
+&emsp;&emsp;o	Item Type
 ________________________________________
 ### 6. Tools & Technologies
 &emsp;•	Power BI Desktop
