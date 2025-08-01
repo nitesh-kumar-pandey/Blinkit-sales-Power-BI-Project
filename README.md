@@ -43,25 +43,25 @@ ________________________________________
 &emsp;&emsp;o	Sales by Outlet Location: Bar chart showing Tier-wise performance.<br>
 &emsp;&emsp;o	Sales Trend by Establishment Year: Line chart showing sales growth over years.<br>
 &emsp;&emsp;o	Outlet Type Table: Table showing Total Sales, Number of Items, Average Sales, Ratings, and Item Visibility.<br>
-&emsp;•	Filter Panel:
-&emsp;&emsp;o	Outlet Location Type
-&emsp;&emsp;o	Outlet Size
-&emsp;&emsp;o	Item Type
+&emsp;•	Filter Panel:<br>
+&emsp;&emsp;o	Outlet Location Type<br>
+&emsp;&emsp;o	Outlet Size<br>
+&emsp;&emsp;o	Item Type<br>
 ________________________________________
-### 6. Tools & Technologies
-&emsp;•	Power BI Desktop
-&emsp;•	Power Query (ETL for cleaning and transforming data)
-&emsp;•	DAX (Data Analysis Expressions) for calculated columns/measures
-&emsp;•	Excel/Database as source files
+### 6. Tools & Technologies<br>
+&emsp;•	Power BI Desktop<br>
+&emsp;•	Power Query (ETL for cleaning and transforming data)<br>
+&emsp;•	DAX (Data Analysis Expressions) for calculated columns/measures<br>
+&emsp;•	Excel/Database as source files<br>
 ________________________________________
-### 7. Insights
-&emsp;•	Tier 3 outlets generate the highest sales.
-&emsp;•	Medium-sized outlets contribute the largest portion of total revenue.
-&emsp;•	"Snack Foods" and "Fruits & Vegetables" are top-selling categories.
-&emsp;•	Older outlet establishments show fluctuating sales trends.
+### 7. Insights<br>
+&emsp;•	Tier 3 outlets generate the highest sales.<br>
+&emsp;•	Medium-sized outlets contribute the largest portion of total revenue.<br>
+&emsp;•	"Snack Foods" and "Fruits & Vegetables" are top-selling categories.<br>
+&emsp;•	Older outlet establishments show fluctuating sales trends.<br>
 ________________________________________
-### 8. Future Enhancements
-&emsp;•	Add forecasting for future sales trends.
-&emsp;•	Drill-through to item-level profitability.
-&emsp;•	Include regional-level geographic mapping.
-&emsp;•	Automate report refresh using scheduled data updates.
+### 8. Future Enhancements<br>
+&emsp;•	Add forecasting for future sales trends.<br>
+&emsp;•	Drill-through to item-level profitability.<br>
+&emsp;•	Include regional-level geographic mapping.<br>
+&emsp;•	Automate report refresh using scheduled data updates.<br>
