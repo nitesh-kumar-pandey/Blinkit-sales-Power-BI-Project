@@ -3,34 +3,34 @@
 ### 1. Project Overview
 This Power BI project analyzes Blinkit's sales data to visualize key performance metrics, identify sales trends, and evaluate contributing factors such as outlet type, size, location, and product categories. The dashboard helps in tracking total sales, average sales, number of items sold, and customer ratings.
 ________________________________________
-### 2. Objectives
-•	Monitor total and average sales performance.
-•	Compare sales by outlet type, outlet size, and outlet location.
-•	Analyze product-level performance by item type and fat content.
-•	Understand how establishment year affects sales.
-•	Provide a filterable, interactive dashboard for data-driven business decisions.
+### 2. Objectives <br>
+&emsp;•	Monitor total and average sales performance.<br>
+&emsp;•	Compare sales by outlet type, outlet size, and outlet location.<br>
+&emsp;•	Analyze product-level performance by item type and fat content.<br>
+&emsp;•	Understand how establishment year affects sales.<br>
+&emsp;•	Provide a filterable, interactive dashboard for data-driven business decisions.<br>
 ________________________________________
-### 3. Data Sources
-•	Primary Source: Blinkit historical sales dataset (Excel/CSV/Database).
-•	Key Data Columns:
-&emsp;1. Item Type
-&emsp;2.	Fat Content
-&emsp;3.	Outlet Type
-&emsp;4.	Outlet Size
-&emsp;5.	Outlet Location Type (Tier 1, Tier 2, Tier 3)
-&emsp;6.	Outlet Establishment Year
-&emsp;7.	Item Sales
-&emsp;8.	Item Rating
-&emsp;9.	Item Visibility
+### 3. Data Sources<br>
+&emsp;•	Primary Source: Blinkit historical sales dataset (Excel/CSV/Database).<br>
+&emsp;•	Key Data Columns:<br>
+&emsp;&emsp;1. Item Type<br>
+&emsp;&emsp;2.	Fat Content<br>
+&emsp;&emsp;3.	Outlet Type<br>
+&emsp;&emsp;4.	Outlet Size<br>
+&emsp;&emsp;5.	Outlet Location Type (Tier 1, Tier 2, Tier 3)<br>
+&emsp;&emsp;6.	Outlet Establishment Year<br>
+&emsp;&emsp;7.	Item Sales<br>
+&emsp;&emsp;8.	Item Rating<br>
+&emsp;&emsp;9.	Item Visibility<br>
 ________________________________________
-### 4. Key Metrics & KPIs
-•	Total Sales: Sum of all sales transactions.
-•	Average Sales: Mean sales per item.
-•	Number of Items Sold: Total count of items.
-•	Average Rating: Mean customer rating.
-•	Item Visibility: Proportion of item display space.
+### 4. Key Metrics & KPIs<br>
+&emsp;•	Total Sales: Sum of all sales transactions.<br>
+&emsp;•	Average Sales: Mean sales per item.<br>
+&emsp;•	Number of Items Sold: Total count of items.<br>
+&emsp;•	Average Rating: Mean customer rating.<br>
+&emsp;•	Item Visibility: Proportion of item display space.<br>
 ________________________________________
-### 5. Dashboard Components
+### 5. Dashboard Components<br>
 &emsp;•	Summary Cards:<br>
 &emsp;&emsp;-	Total Sales<br>
 &emsp;&emsp;-	Average Sales<br>
