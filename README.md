@@ -1,6 +1,6 @@
 # Blinkit Sales Analytics Dashboard – Project Documentation
 
-This Power BI project analyzes Blinkit's sales data to visualize key performance metrics, identify sales trends, and evaluate contributing factors such as outlet type, size, location, and product categories. The dashboard helps in tracking total sales, average sales, number of items sold, and customer ratings.
+This Power BI project analyzes Blinkit's sales data to visualize key performance metrics, identify sales trends, and evaluate contributing factors such as outlet type, size, location, and product categories.
 ________________________________________
 ### 1. Objectives <br>
 &emsp;•	Monitor total and average sales performance.<br>
