@@ -1,15 +1,15 @@
 # Blinkit Sales Analytics Dashboard – Project Documentation
-
+### 1. Project Overview
 This Power BI project analyzes Blinkit's sales data to visualize key performance metrics, identify sales trends, and evaluate contributing factors such as outlet type, size, location, and product categories.
 ________________________________________
-### 1. Objectives <br>
+### 2. Objectives <br>
 &emsp;•	Monitor total and average sales performance.<br>
 &emsp;•	Compare sales by outlet type, outlet size, and outlet location.<br>
 &emsp;•	Analyze product-level performance by item type and fat content.<br>
 &emsp;•	Understand how establishment year affects sales.<br>
 &emsp;•	Provide a filterable, interactive dashboard for data-driven business decisions.<br>
 ________________________________________
-### 2. Data Sources<br>
+### 3. Data Sources<br>
 &emsp;•	Primary Source: Blinkit historical sales dataset (Excel/CSV/Database).<br>
 &emsp;•	Key Data Columns:<br>
 &emsp;&emsp;1. Item Type<br>
@@ -22,14 +22,14 @@ ________________________________________
 &emsp;&emsp;8.	Item Rating<br>
 &emsp;&emsp;9.	Item Visibility<br>
 ________________________________________
-### 3. Key Metrics & KPIs<br>
+### 4. Key Metrics & KPIs<br>
 &emsp;•	Total Sales: Sum of all sales transactions.<br>
 &emsp;•	Average Sales: Mean sales per item.<br>
 &emsp;•	Number of Items Sold: Total count of items.<br>
 &emsp;•	Average Rating: Mean customer rating.<br>
 &emsp;•	Item Visibility: Proportion of item display space.<br>
 ________________________________________
-### 4. Dashboard Components<br>
+### 5. Dashboard Components<br>
 &emsp;•	Summary Cards:<br>
 &emsp;&emsp;-	Total Sales<br>
 &emsp;&emsp;-	Average Sales<br>
@@ -47,19 +47,19 @@ ________________________________________
 &emsp;&emsp;-	Outlet Size<br>
 &emsp;&emsp;-	Item Type<br>
 ________________________________________
-### 5. Tools & Technologies<br>
+### 6. Tools & Technologies<br>
 &emsp;•	Power BI Desktop<br>
 &emsp;•	Power Query (ETL for cleaning and transforming data)<br>
 &emsp;•	DAX (Data Analysis Expressions) for calculated columns/measures<br>
 &emsp;•	Excel/Database as source files<br>
 ________________________________________
-### 6. Insights<br>
+### 7. Insights<br>
 &emsp;•	Tier 3 outlets generate the highest sales.<br>
 &emsp;•	Medium-sized outlets contribute the largest portion of total revenue.<br>
 &emsp;•	"Snack Foods" and "Fruits & Vegetables" are top-selling categories.<br>
 &emsp;•	Older outlet establishments show fluctuating sales trends.<br>
 ________________________________________
-### 7. Future Enhancements<br>
+### 8. Future Enhancements<br>
 &emsp;•	Add forecasting for future sales trends.<br>
 &emsp;•	Drill-through to item-level profitability.<br>
 &emsp;•	Include regional-level geographic mapping.<br>
